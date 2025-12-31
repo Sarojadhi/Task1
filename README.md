@@ -14,7 +14,7 @@ The project highlights beautiful natural landscapes and demonstrates modern fron
 ## 🚀 Live Demo
 
 🌐 **Website URL:**  
-https://USERNAME.github.io/Task1/
+https://sarojadhi.github.io/Task1/
 
 *(Replace `USERNAME` with your GitHub username)*
 
